@@ -10,4 +10,4 @@
 
 **`npm start` to start the React App**
 
-**[App Demo](https://utilitiestext.netlify.app/_)**
+**[App Demo](https://utilitiestext.netlify.app/)**
